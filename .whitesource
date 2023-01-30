@@ -4,7 +4,7 @@
     "configExternalURL": "",
     "projectToken": "",
     "baseBranches": [],
-    "enableIaC": true
+    "enableIaC": false
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
