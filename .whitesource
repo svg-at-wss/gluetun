@@ -13,7 +13,7 @@
   },
   "issueSettings": {
     "minSeverityLevel": "LOW",
-    "issueType": "DEPENDENCY"
+    "issueType": "VULNERABILITY"
   },
   "remediateSettings": {
     "workflowRules": {
